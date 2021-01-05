@@ -1,0 +1,23 @@
+body{font-family: 'Roboto', sans-serif;
+}
+body{background-color:black;
+color: rgb(255, 255, 255);}
+.topdiv{
+    width: 40%;
+    float: left;
+    margin-top: 4%;
+   margin-left: 10%;}
+    #fastdiv{margin-top: 8%;}
+.img{border-radius: 30%;
+     
+    height: 70%;
+width: 70%;}
+button{ text-decoration: none;
+    background-color: rgb(255, 212, 133);
+       padding: 10px;
+        border-radius: 17px;
+        color: black;
+        font-size: 20px;
+}
+.middlediv{ margin-right: 10%;
+   }
